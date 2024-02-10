@@ -1,0 +1,620 @@
+/* Utility classes */
+
+/* display FLex started */
+
+.d-flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.wrap{
+    flex-wrap: wrap ;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+.align-center{
+    align-items: center;
+}
+.gap{
+    gap: 25px;
+    
+}
+
+.mt-1{
+    margin-top: 10px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+/* main classes started */
+
+.flex-item50{
+    flex-basis: 40%;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.img-pad{
+    padding-top: 10px;
+}
+
+.arrowm-img{
+
+    /* padding-top: 10px; */
+    width: 15px;
+    height: 20px;
+    /* padding-bottom: 10px; */
+    padding-top: 5px;
+    
+}
+
+.bdrradius{
+    border-radius: 3px;
+}
+
+/* Restaurant franchise utiliteis  */
+
+.franchise-section{
+
+    padding: 70px 70px 70px 70px;
+
+}
+
+.bg-color{
+    background-color: #0f0f0f;
+
+}
+
+.franch-h1{
+
+    text-align: center;
+}
+
+.flex-item50{
+
+    flex-basis: 40%;
+}
+
+.justify-center{
+
+    justify-content: center;
+}
+
+.font-clr{
+
+    color: rgb(252, 4, 4);
+}
+
+.letter-spacing{
+
+    letter-spacing: 5px;
+}
+.letter-spacing1{
+    letter-spacing: 0.03em;
+}
+
+.font-size{
+
+    font-size: large;
+}
+.font-size1{
+    font-size: 18px;
+}
+.font-size2{
+    font-size: 12px;
+
+}
+
+.pbottom-1{
+
+    padding-bottom: 10px; 
+
+}
+.cursor{
+    cursor: pointer;
+}
+
+.pL-1{
+    padding-left: 15px;
+}
+
+.pR-1{
+    padding-right: 15px;
+    
+}
+
+.mb-1{
+    margin-bottom: 8px;
+}
+.mb-2{
+    margin-bottom: 15px;
+}
+
+.mb-3{
+
+    margin-bottom: 48px;
+    
+}
+.mt2{
+    margin-top: 70px;
+}
+
+.widht{
+    width: 523px;
+}
+
+/* Express Section utilities */
+
+.exp-img{
+    width: 350px;
+}
+
+.font-size2{
+    font-size: 12px;
+
+}
+
+.font-size3{
+    font-size: 14px;
+
+}
+
+.mb-4{
+    margin-bottom: 24px ;
+}
+
+.p-t-b{
+
+    padding-top: 70px;
+    padding-bottom: 38px;
+}
+
+.mb-5{
+
+    margin-bottom: 30px;
+}
+
+.font-size4{
+    font-size: 52px;
+}
+
+.l-height{
+    line-height: 62px;
+
+}
+.let-spacing{
+    letter-spacing: -0.3cqb;
+}
+
+/* vilage section utilities */
+
+.img-width{
+    width: 785px;
+}
+
+.flex-item2{
+    flex-basis: 50%;
+
+}
+.mt-b{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.pt-l-r{
+    padding-top: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.p-bottom2{
+
+    padding-bottom: 48px;
+
+}
+.p-top1{
+    padding-top: 48px;
+}
+
+/* Opening soon section Utilities */
+
+
+.p-top2{
+    padding-top: 60px;
+
+}
+
+.p-botm{
+    padding-bottom: 48px;
+
+
+}
+
+.fontsize5{
+
+    font-size: 21px;
+    line-height: 21px;
+}
+
+.ml-r-b{
+
+    margin: 0 123px 16px
+
+}
+
+.pt-b-r-l{
+
+    padding: 25px 15px 25px 15px;
+
+}
+
+.colr{
+    color:#000000;
+}
+
+.font-weight{
+    font-weight: 100;
+}
+
+/* Social Feed Utilities */
+
+.social-img-width{
+    width: 300px;
+    height: 295px;
+}
+
+.p-l-r-b{
+    padding: 0px 10px 15px 10px;
+
+}
+.social-h1{
+    font-size: 32px;
+}
+
+
+/* Foot Panel Utilites */
+
+.height{
+    height: 400px;
+    background-image: url(Images/a4195117-d4ae-45d4-9088-21162bacdfb1.webp);
+
+}
+
+.width12{
+    width: 367px;
+    
+}
+
+.let-spacing2{
+    letter-spacing: 0px;
+}
+
+.gap2{
+    gap: 5%;
+}
+
+.logoimg{
+    width: 140px;
+
+
+}
+
+.font-clr2{
+
+    color: rgba(255, 255, 255, 0.7);
+}
+.font-clr3{
+    color: #ffffff;
+}
+
+.p-T-L-R{
+
+    padding: 70px 15px 15px ;
+}
+
+.p-b-logo{
+    padding-bottom: 24px;
+}
+
+.p-b-h3{
+
+    padding-bottom: 24px;
+}
+
+.pb-let{
+    padding-bottom: 16px;
+
+}
+.pb-para{
+
+    padding-bottom: 24px;
+}
+
+.fb-ins-twt-img{
+    width: 50px;
+    height: 50px;
+    padding: 5px 5px 5px 5px;
+}
+.mb-icon{
+    margin-bottom: 15px;
+
+}
+
+.p-copyright{
+    padding: 10px 15px 10px 15px;
+
+}
+
+.border{
+    border-top: 1px solid rgba(155, 151, 151, 0.075);   
+}
+
+.flex-bas0{
+    flex-basis: 100%;
+}
+
+
+/* About utilities */
+
+.main-container{
+    padding-top: 72px;
+}
+
+.intro-width{
+    width: 1140px;
+}
+
+
+.justify-cntnt-around{
+    justify-content: space-around;
+   
+}
+
+.p-L-R1{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.p-L-R2{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.mB-heading{
+    margin-bottom: 32px;
+}
+
+.mT-B{
+    margin-top: 64px;
+    margin-bottom: 70px;
+}
+
+.mB-para{
+    margin-bottom: 15px;
+}
+
+.text-center{
+    text-align: center;
+
+}
+
+.fontsize-6{
+    font-size: 18px;
+}
+
+.font-size7{
+    font-size: 2em ;
+}
+
+.flex-basis{
+
+    flex-basis: 50%;
+}
+
+.aboutimg-w{
+    width: 540px;
+    height: 343.838px;
+}
+.aboutimg-w2{
+    width: 540px;
+    height: 343.838px;
+}
+
+.card-img-w{
+
+    width: 326px;
+    height: 250px;
+}
+.aboutdiv-height{
+
+    height: 413.838px;
+     
+}
+.card-border-rds{
+    border-radius: 10px;
+}
+
+.heading-size{
+    font-size: 2rem;
+
+
+}
+.mB-6{
+    margin-bottom: 50px;
+}
+
+.flex-basis2{
+    width: 350px;
+    height: 430px;
+}
+
+.mt-h4{
+    margin-top: 12px;
+
+}
+.card-mb{
+    margin-bottom: 32px;
+
+}
+.card-para-mb{
+    margin-top: 15px;
+}
+
+/* Publications Utilities */
+
+.nav-b-brdr{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.103);
+}
+
+.flex-basis3{
+    width: 542px;
+    height: 604px;
+
+}
+.books-brdr{
+    border: 1px solid rgba(255, 255, 255, 0.205);
+}
+
+.book-img-w{
+    width: 538px;
+    height: 598px;
+}
+.p-t-b_book{
+    padding-top:32px;
+    padding-bottom:40px;;
+
+}
+.zoomin:hover{
+    transform: scale(1.3);
+}
+.pT-B-book{
+    padding-top: 72px ;
+    padding-bottom: 72px;
+
+}
+.flex-basis4{
+    width: 542px;
+    height: 604px
+}
+.h2-size{
+    font-size: 2rem;
+}
+.text-centr{
+    text-align: center;
+}
+.mb-t-avail{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.h4-size{
+    font-size: 18px;
+}
+.mB-para2{
+    margin-bottom: 10px;
+}
+.mb-para3{
+    margin-bottom: 20px;
+}
+
+/* Feedback Utilities */
+
+.flex-basis5{
+    width: 562px;
+    height: 850px
+
+}
+.flex-basis6{
+    width: 150px;
+    height: 58px;
+
+}
+.rating-stars:hover  { 
+    color: red;
+    size: px;
+    cursor: pointer;
+
+}
+.text-center2{
+    text-align: start;
+}
+
+.mt-b-label{
+    margin-top: 40px;
+    margin-bottom: 25px;
+
+}
+.m-b-label{
+    margin-bottom: 20px;
+
+}
+.p-4thside{
+    padding: 6px 12px 6px 12px  ; 
+}
+.input{
+    width: 100%;
+    height: 50px;
+    border-radius: 8px;
+    
+}
+
+.postbtn{
+    margin-top: 20px;
+    color: #ffffff;
+    border: 0 ;
+    background-color: #ff0000;
+    border-radius: 30px;
+    padding: 18px 18px;
+}
+
+/* Get a Franchise Utilities*/
+
+.flex-basis7{
+    width: 562px;
+    height: 545px;
+}
+
+.mL-R{
+    margin-left: 47px;
+    margin-right: 47px;
+}
+.mt-Get-head{
+    font-size: 2.4rem;
+    padding-top: 70px;
+}
+
+.SUBMIT-btn{
+    margin-top: 12px;
+    background-color: rgb(255, 0, 0);
+    border: #ff0000;
+    border-radius: 30px;
+    padding: 18px 60px;
+    color: #ffffff;
+
+
+
+}
+.get-footr{
+    margin-top: 50px;
+
+}
+

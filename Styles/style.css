@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Poppins', sans-serif; */
+
+}
+html{
+    
+    font-size: 1rem;
+    
+}
+
+body{ 
+    color: #ffffff;
+    background-color: #000000;
+}
+
+/* navbar started */
+
+.headerimg{
+    width: 165px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    font-size:  18px ;
+    text-decoration: none;
+    color: rgb(247, 250, 250);
+    font-weight: 300px;
+    
+
+}
+
+#order-reverve-btn{
+
+    font-size: 14px;
+}
+
+#franchise-btn{
+    border: 1px solid  #ffffff;
+    background-color: #ffffff00;
+    border-radius: 30px;
+    padding: 16px 25px;
+    color: rgba(255, 255, 255, 0.836);
+    
+    
+}
+#order-btn{
+    color: #ffffff;
+    border: 0 ;
+    background-color: #ff0000;
+    border-radius: 30px;
+    padding: 18px 35px;
+    
+
+}
+/* Navbar Ended */
+
+/* main satrted */
+
+/* welcome section started */
+
+h1{ 
+    font-family: monospace;
+    font-size: 42px;
+    line-height: 40px;
+    margin-bottom: 10px;
+
+}
+.span{
+
+    font-style: oblique;
+    font-size: 52px;
+
+}
+.p1{
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 20px ;
+
+}
+
+p{
+
+    color: rgba(255, 255, 255, 0.7);
+}
+ 
+.container{
+    width: 100%;
+    text-align: center;
+    padding: 70px 15px 130px 15px;
+    border: 1px red;
+    
+    
+}
+
+.box-img{
+
+    background-color: #ffffff;
+    margin-bottom: 10% ;
+    padding: 20px 10px 10px 10px;
+    border-radius: 3px;
+   
+   
+
+}
+
+.ordernow-btn{
+    background-color: #000000;
+    border: 1px solid  rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+    height: 50px;
+    width: 169px;
+    font-size: 5px;
+
+
+}
+
+/* welcome section ended */
+
+
+/* Franchises Section started  */
+
+/*.franchises-section{ 
+    background-color: rgba(255, 255, 255, 0.06);;
+    
+    padding-top: 100px;
+
+
+    width: 100%;
+
+}
+.franchises-items{
+    padding: 70px 70px;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 1px solid #bd1818;
+
+}
+
+.franchises-box{    
+    border:2px solid #037aa8;
+    height: 100px;
+    width: 523.5px;
+    justify-content: center;
+    
+}*/
+
+/* Frachises section started */
+
+
+.font-align{
+
+    text-align: center;
+}
+
+.h3{
+    font-size: 32px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-bottom: 24px
+
+
+}
+
+.franchise{
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.get-btn{
+
+    border: 1px solid  #ffffff;
+    background-color: #ffffff00;
+    border-radius: 30px;
+    padding: 16px 40px;
+    color: rgba(255, 255, 255, 0.836);
+    margin-top: 40PX;
+    width: 174px;
+    height: 50px;
+    
+      
+}
+
+/* Frachises section Ended */
+
+/* express-section started */
+
+.exprs-main-heading{
+    width: 100%;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+.express-section{
+    align-items: center;
+    gap:5px;
+
+}
+
+.express-section-box{
+    text-align: center;
+ 
+    flex-basis: 25%;
+    
+
+
+}
+
+.exprs-h3{
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 400px;
+    margin-bottom: 8px;
+
+}
+
+.exprs-get-btn{
+
+    border: 1px solid  #ffffff;
+    background-color: #ffffff00;
+    border-radius: 30px;
+    padding: 16px 40px;
+    color: rgba(255, 255, 255, 0.836);
+    margin-top: 20PX;
+    margin-bottom: 32px;
+    width: 174px;
+    height: 50px;
+    
+      
+}
+
+/* vilage section Started*/
+
+
+.village2-box{
+
+    width: 100%;
+    background-color:  #ffffff00 ;
+
+  
+}
+.village-boxes-get-btn{
+    background-color: #28a745;
+    border-radius: 30px;
+    padding: 16px 40px;
+    color: rgba(255, 255, 255, 0.836);
+    margin-top: 40PX;
+    width: 174px;
+    height: 50px;
+
+}
+
+.opensoon{
+    width: 100%;
+    align-items: end;
+
+}
+
+.opensoon1{
+    display: flex;
+    width: 100%;
+    flex-basis: 70%;
+    
+   
+}
+
+.openbox{
+    border: 1px solid rgb(8, 179, 31);
+    width: 350px;
+    height: 230px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 5px;
+    
+}
+
+.small{
+    color: rgb(236, 23, 8);
+    font-size: 11px;
+}
+
+/* Social Feed Section Started */
+
+.social{
+    width: 100%;
+    
+}
